@@ -13,6 +13,7 @@ header {
     color: black;
     font-size: 25px;
     text-align: center;
+    cursor: pointer;
 }
 .main-logo {
     width: 300px;
@@ -165,4 +166,250 @@ a {
     border: 2px solid #a7a7a7;
     font-size: 13px;
     font-weight: 600;
+}
+
+
+
+
+.img1-T {
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    margin-top: -374px;
+    margin-left: 20px;
+    background: #00000069;
+    cursor: pointer;
+}
+.img1-T:hover{
+    background: transparent;
+}
+.img1-T h1 {
+    color: white;
+    text-align: center;
+    margin-top: 0px;
+    font-size: 25px;
+    font-family: system-ui;
+    width: 100%;
+    height: 200px;
+    padding-top: 150px;
+}
+.img1-T h1:hover{
+    font-size: 29px;
+    transition: 0.3s;
+}
+
+.img2-T {
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    margin-top: -374px;
+    margin-left: 394px;
+    background: #00000069;
+    cursor: pointer;
+}
+.img2-T:hover{
+    background: transparent;
+}
+.img2-T h1 {
+    color: white;
+    text-align: center;
+    margin-top: 0px;
+    font-size: 25px;
+    font-family: system-ui;
+    width: 100%;
+    height: 200px;
+    padding-top: 150px;
+}
+.img2-T h1:hover{
+    font-size: 29px;
+    transition: 0.3s;
+}
+
+.img3-T {
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    margin-top: -374px;
+    margin-left: 768px;
+    background: #00000069;
+    cursor: pointer;
+}
+.img3-T:hover{
+    background: transparent;
+}
+.img3-T h1 {
+    color: white;
+    text-align: center;
+    margin-top: 0px;
+    font-size: 25px;
+    font-family: system-ui;
+    width: 100%;
+    height: 200px;
+    padding-top: 150px;
+}
+.img3-T h1:hover{
+    font-size: 29px;
+    transition: 0.3s;
+}
+
+.img4-T {
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    margin-top: -374px;
+    margin-left: 20px;
+    background: #00000069;
+    cursor: pointer;
+}
+.img4-T:hover{
+    background: transparent;
+}
+.img4-T h1 {
+    color: white;
+    text-align: center;
+    margin-top: 0px;
+    font-size: 25px;
+    font-family: system-ui;
+    width: 100%;
+    height: 200px;
+    padding-top: 150px;
+}
+.img4-T h1:hover{
+    font-size: 29px;
+    transition: 0.3s;
+}
+
+.img5-T {
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    margin-top: -374px;
+    margin-left: 394px;
+    background: #00000069;
+    cursor: pointer;
+}
+.img5-T:hover{
+    background: transparent;
+}
+.img5-T h1 {
+    color: white;
+    text-align: center;
+    margin-top: 0px;
+    font-size: 25px;
+    font-family: system-ui;
+    width: 100%;
+    height: 200px;
+    padding-top: 150px;
+}
+.img5-T h1:hover{
+    font-size: 29px;
+    transition: 0.3s;
+}
+
+.img6-T {
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    margin-top: -374px;
+    margin-left: 768px;
+    background: #00000069;
+    cursor: pointer;
+}
+.img6-T:hover{
+    background: transparent;
+}
+.img6-T h1 {
+    color: white;
+    text-align: center;
+    margin-top: 0px;
+    font-size: 25px;
+    font-family: system-ui;
+    width: 100%;
+    height: 200px;
+    padding-top: 150px;
+}
+.img6-T h1:hover{
+    font-size: 29px;
+    transition: 0.3s;
+}
+
+.img7-T {
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    margin-top: -374px;
+    margin-left: 20px;
+    background: #00000069;
+    cursor: pointer;
+}
+.img7-T:hover{
+    background: transparent;
+}
+.img7-T h1 {
+    color: white;
+    text-align: center;
+    margin-top: 0px;
+    font-size: 25px;
+    font-family: system-ui;
+    width: 100%;
+    height: 200px;
+    padding-top: 150px;
+}
+.img7-T h1:hover{
+    font-size: 29px;
+    transition: 0.3s;
+}
+
+.img8-T {
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    margin-top: -374px;
+    margin-left: 394px;
+    background: #00000069;
+    cursor: pointer;
+}
+.img8-T:hover{
+    background: transparent;
+}
+.img8-T h1 {
+    color: white;
+    text-align: center;
+    margin-top: 0px;
+    font-size: 25px;
+    font-family: system-ui;
+    width: 100%;
+    height: 200px;
+    padding-top: 150px;
+}
+.img8-T h1:hover{
+    font-size: 29px;
+    transition: 0.3s;
+}
+
+.img9-T {
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    margin-top: -374px;
+    margin-left: 768px;
+    background: #00000069;
+    cursor: pointer;
+}
+.img9-T:hover{
+    background: transparent;
+}
+.img9-T h1 {
+    color: white;
+    text-align: center;
+    margin-top: 0px;
+    font-size: 25px;
+    font-family: system-ui;
+    width: 100%;
+    height: 200px;
+    padding-top: 150px;
+}
+.img9-T h1:hover{
+    font-size: 29px;
+    transition: 0.3s;
 }
